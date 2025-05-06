@@ -1,6 +1,7 @@
 # Attrition & Workforce Insights at NovaGen Biotech Ltd.
-
 NovaGen Biotech Ltd. is a mid-sized pharmaceutical research and development company with over 1,500 employees in India. The company has faced rising employee attrition, especially in technical and sales roles, resulting in higher hiring costs and operational disruptions.
+
+![HR Analytics Dashboard](https://github.com/user-attachments/assets/a3bd475c-7770-4e38-ae45-9881113f559b)
 
 ## Problem Statement:
 The HR department at NovaGen identified a concerning trend of high attrition rates among key departments such as R&D and Sales. Without a clear understanding of the causes, leadership struggled to implement effective retention strategies.
